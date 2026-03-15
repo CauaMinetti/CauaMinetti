@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CauaMinetti/CauaMinetti/output/snake.svg" alt="Snake animation" />
+
 
 ###
