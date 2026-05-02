@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Meu nome é Cauã, ... Tenho 16 anos, ... Eu sou do Brasil.</h1>
+<h1 align="left">HI, I'm Cauã Minetti! .</h1>
 
 ###
 
