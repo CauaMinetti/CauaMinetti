@@ -1,6 +1,7 @@
 # Cauã Minetti
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`** 
+---
 
 Olá, meu nome é Cauã Minetti, tenho 16 anos e sou do Rio Grande do Sul. Atualmente, sou estudante do IFRS, onde curso Técnico em Meio Ambiente.
 
