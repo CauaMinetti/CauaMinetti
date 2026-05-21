@@ -1,7 +1,14 @@
-<h1 align="left">HI, I'm Cauã Minetti! .</h1>
+# 👩🏻‍💻 Cauã Minetti
 
-###
+**`Desenvolvedor FullStack`**
 
+Olá, meu nome é Cauã Minetti, tenho 16 anos e sou do Rio Grande do Sul. Atualmente, sou estudante do IFRS, onde curso Técnico em Meio Ambiente.
+
+Paralelamente à minha formação, venho me dedicando intensamente à área de tecnologia, que é uma paixão desde a infância. Tenho aprofundado meus conhecimentos em programação, especialmente em Python, buscando desenvolver habilidades sólidas que me preparem para os próximos passos da minha carreira.
+
+Meu objetivo profissional é me tornar engenheiro de software, com especialização em Inteligência Artificial, contribuindo para a construção de soluções tecnológicas inteligentes, eficientes e inovadoras.
+
+Estou sempre aberto a aprender, trocar experiências e me conectar com pessoas que compartilham do mesmo interesse por tecnologia e inovação.
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" alt="python logo"  />
   <img width="15" />
@@ -22,13 +29,10 @@
   <a href="https://www.instagram.com/cauaminetti?igsh=NXlzd21iZnhxNDU4&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/6weSJDme" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/cauã-souza-minetti-57466b3b2" target="_blank">
+  <a href="[www.linkedin.com/in/cauaminetti](https://www.linkedin.com/in/cauaminetti)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
