@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Cauã Minetti
+# Cauã Minetti
 
 **`Desenvolvedor FullStack`**
 
@@ -6,9 +6,6 @@ Olá, meu nome é Cauã Minetti, tenho 16 anos e sou do Rio Grande do Sul. Atual
 
 Paralelamente à minha formação, venho me dedicando intensamente à área de tecnologia, que é uma paixão desde a infância. Tenho aprofundado meus conhecimentos em programação, especialmente em Python, buscando desenvolver habilidades sólidas que me preparem para os próximos passos da minha carreira.
 
-Meu objetivo profissional é me tornar engenheiro de software, com especialização em Inteligência Artificial, contribuindo para a construção de soluções tecnológicas inteligentes, eficientes e inovadoras.
-
-Estou sempre aberto a aprender, trocar experiências e me conectar com pessoas que compartilham do mesmo interesse por tecnologia e inovação.
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" alt="python logo"  />
   <img width="15" />
@@ -47,7 +44,6 @@ Estou sempre aberto a aprender, trocar experiências e me conectar com pessoas q
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5aGw1cmw3aWVtZmY4NnhlanBlNnRyY3ljanE4ZWxmbmN0azRvcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/40FmiosxIu2MVJYVih/giphy.gif"  />
 
 ###
 
